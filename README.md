@@ -34,10 +34,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Azmajafri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Azmajafri | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<!--[<img align="left" alt="Azmajafri | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]-->
 
 [linkedin]: https://linkedin.com/in/azmajafri
-[gmail]: https://gmail.com/azmaajafri
+<!--[gmail]: https://mail.google.com/azmaajafri-->
 
 <!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
